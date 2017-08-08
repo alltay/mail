@@ -1,0 +1,33 @@
+Python 3.6.1 (v3.6.1:69c0db5, Mar 21 2017, 17:54:52) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: C:\Users\user\Desktop\proj\2.py ==================
+Анализ файла./mail/610771551.eml
+Почтовый адрес postmaster@3gtot.com валиден.
+ ====================
+Тема письма и title не совпадают!
+ ====================
+Проверка IP адреса на наличие в спам базах
+ ====================
+IP: 176.59.35.203 НАХОДИТСЯ в списке zen.spamhaus.org (127.0.0.11: "https://www.spamhaus.org/query/ip/176.59.35.203")
+IP: 176.59.35.203 нет в списке spam.abuse.ch
+IP: 176.59.35.203 НАХОДИТСЯ в списке cbl.abuseat.org (127.0.0.2: "Blocked - see http://www.abuseat.org/lookup.cgi?ip=176.59.35.203")
+IP: 176.59.35.203 нет в списке virbl.dnsbl.bit.nl
+IP: 176.59.35.203 нет в списке dnsbl.inps.de
+IP: 176.59.35.203 нет в списке ix.dnsbl.manitu.net
+IP: 176.59.35.203 нет в списке dnsbl.sorbs.net
+IP: 176.59.35.203 нет в списке bl.spamcannibal.org
+IP: 176.59.35.203 нет в списке bl.spamcop.net
+IP: 176.59.35.203 НАХОДИТСЯ в списке xbl.spamhaus.org (127.0.0.4: "https://www.spamhaus.org/query/ip/176.59.35.203")
+IP: 176.59.35.203 НАХОДИТСЯ в списке pbl.spamhaus.org (127.0.0.11: "https://www.spamhaus.org/query/ip/176.59.35.203")
+IP: 176.59.35.203 нет в списке dnsbl-1.uceprotect.net
+IP: 176.59.35.203 нет в списке dnsbl-2.uceprotect.net
+IP: 176.59.35.203 нет в списке dnsbl-3.uceprotect.net
+IP: 176.59.35.203 нет в списке db.wpbl.info
+====================
+В тексте найдены следующие сомнительные слова: 
+['Заработайте', 'сегодня', 'рублей', 'работа', 'деньги', 'заработок']
+====================
+В теме письма найдены следующие сомнительные слова: 
+['Предложение']
+>>> 
